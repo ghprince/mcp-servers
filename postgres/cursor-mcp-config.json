@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "postgresql": {
+      "command": "node",
+      "args": ["/Users/gordongao/Developer/github/ghprince/mcp-servers/postgres/dist/index.js"],
+      "env": {}
+    }
+  }
+}

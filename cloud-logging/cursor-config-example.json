@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gcloud-logging": {
+      "command": "node",
+      "args": ["/Users/gordongao/Developer/github/ghprince/mcp-servers/cloud-logging/build/index.js"]
+    }
+  }
+}
